@@ -19,6 +19,8 @@ def locate_character_indexes(sentence: List[str], words: List[str]) -> List[int]
     Difficulty: 1/5
     Implement a func `read_word_list_from_csv`
     Given a csv file path: `file_path`, read the file, and parse the contents into a word list: List[int]
+        example file is provided in `data/word_list.csv`
+        you need to learn about csv files and how to parse them, use the Python standard lib `csv`
 '''
 def read_word_list_from_csv(file_path: str) -> List[int]:
     pass
