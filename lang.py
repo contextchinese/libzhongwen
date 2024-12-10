@@ -18,4 +18,3 @@ def check_grammar(sentence: str):
 
 def find_similar_sentence(sentence: str):
     pass
-
