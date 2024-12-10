@@ -2,6 +2,7 @@
 from typing import List
 
 '''
+    Problem #001
     Difficulty: 1/5
     Implement `locate_character_indexes` func so that given sentences: str such as '我爱学习中文'
         and words: List, such as ['爱'， 中文], the func should return a list of indexes at
@@ -14,6 +15,7 @@ def locate_character_indexes(sentence: str, words) -> List[int]:
 
 
 '''
+    Problem #002
     Difficulty: 1/5
     Implement a func `read_word_list_from_csv`
     Given a csv file path: `file_path`, read the file, and parse the contents into a word list: List[int]
