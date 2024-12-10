@@ -10,7 +10,7 @@ from typing import List
         中文 is located at sentence[1] and sentence[3]
         Note that a prerequisite is splitting up sentences into a word list
 '''
-def locate_character_indexes(sentence: str, words) -> List[int]:
+def locate_character_indexes(sentence: List[str], words: List[str]) -> List[int]:
     pass
 
 
